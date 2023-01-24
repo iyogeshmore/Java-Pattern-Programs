@@ -4,7 +4,7 @@ public class Pattern_5 {
             for (int j = 5; j >= 1; j--) {
                 System.out.println(j);
             }
-            System.out.println();
+            System.out.println( );
         }
     }
 }
